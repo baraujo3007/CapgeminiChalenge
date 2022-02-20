@@ -20,4 +20,7 @@ $./verifyPassword
 Para executar os testes unitários:
 $./testRunner
 
+Para limpar os binários criados:
+$make clean
+
 
