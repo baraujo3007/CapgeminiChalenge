@@ -1,7 +1,9 @@
 # CapegminiChalenge
+
 This repository contains the codes for the Capegmini Programming Chalenge
 
 Os códigos para cada questão estão constidos em suas respectivas pastas:
+
 Questão 1 - ConstructStair
 Questão 2 - VerifyPassword
 Questão 3 - CountAnagrams
