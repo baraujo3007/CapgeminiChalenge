@@ -1,6 +1,6 @@
-# CapegminiChalenge
+# CapgeminiChalenge
 
-This repository contains the codes for the Capegmini Programming Chalenge
+This repository contains the codes for the Capgemini Programming Chalenge
 
 Os códigos para cada questão estão constidos em suas respectivas pastas:
 
