@@ -1,4 +1,4 @@
-Desafio de Programação Academia Capegmini
+Desafio de Programação Academia Capgemini
 Realizado por Bruna Araujo
 
 Comandos para execução da Questão 1 - constructStair
